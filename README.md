@@ -1,5 +1,32 @@
 # PyTorch-UNet
 
+## Setup
+
+<details>
+
+<summary></summary>
+
+</details>
+
+<details>
+
+<summary></summary>
+
+</details>
+
+<details>
+
+<summary></summary>
+
+</details>
+
+<details>
+
+<summary></summary>
+
+</details>
+
+
 
 
 ## GetHub Acknowledgements
