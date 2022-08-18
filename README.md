@@ -55,20 +55,9 @@ $ python3 -u test.py \
 
 </details>
 
-<details>
-
-<summary></summary>
-
-</details>
 
 
 
-
-<details>
-
-<summary></summary>
-
-</details>
 
 
 ## Instance Segmentation
@@ -127,3 +116,10 @@ $ python eval.py --trained_model=weights/yolact_base_54_800000.pth --score_thres
 
 </details>
 
+
+
+<details>
+
+<summary></summary>
+
+</details>
