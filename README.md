@@ -1,4 +1,4 @@
-# PyTorch-UNet
+# Semantic Segmentation
 
 ## Setup
 
