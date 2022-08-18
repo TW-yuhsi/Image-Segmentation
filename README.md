@@ -85,6 +85,9 @@ $ git clone https://github.com/dbolya/yolact.git
 $ cd yolact/
 $ conda env create -f environment.yml
 $ conda activate yolact-env
+$ # Cython needs to be installed before pycocotools
+$ pip install cython
+$ pip install opencv-python pillow pycocotools matplotlib 
 ```
   
 </details>
