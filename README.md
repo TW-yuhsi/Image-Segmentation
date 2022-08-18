@@ -25,6 +25,7 @@ $ conda create -n SemanticSegmentation python=3.7 -y
 $ conda activate SemanticSegmentation
 
 $ git clone https://github.com/CSAILVision/semantic-segmentation-pytorch
+$ cd semantic-segmentation-pytorch/
 $ pip install -r requirements.txt
 >> scipy
 >> torch>=0.4.1
@@ -81,7 +82,8 @@ $ python3 -u test.py \
 $ conda create -n SemanticSegmentation python=3.7 -y
 $ conda activate SemanticSegmentation
 
-$ git clone https://github.com/CSAILVision/semantic-segmentation-pytorch
+$ git clone https://github.com/dbolya/yolact.git
+$ cd yolact
 $ pip install -r requirements.txt
 >> scipy
 >> torch>=0.4.1
