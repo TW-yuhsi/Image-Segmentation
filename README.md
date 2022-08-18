@@ -1,7 +1,10 @@
-# Semantic Segmentation
 
 
-## [U-Net: Semantic segmentation with PyTorch](https://github.com/milesial/Pytorch-UNet)
+
+## Semantic Segmentation
+
+
+### [U-Net: Semantic segmentation with PyTorch](https://github.com/milesial/Pytorch-UNet)
 <details>
 
 <summary>Conda env.</summary>
@@ -13,17 +16,23 @@ $ conda activate UNet
   
 </details>
 
-## [Semantic Segmentation on MIT ADE20K dataset in PyTorch](https://github.com/CSAILVision/semantic-segmentation-pytorch)
+### [Semantic Segmentation on MIT ADE20K dataset in PyTorch](https://github.com/CSAILVision/semantic-segmentation-pytorch)
 <details>
 
 <summary>Environment setup</summary>
 
 ```bash
-$ conda create -n SemanticSegmentation python=3.9 -y
+$ conda create -n SemanticSegmentation python=3.7 -y
 $ conda activate SemanticSegmentation
 
 $ git clone https://github.com/CSAILVision/semantic-segmentation-pytorch
 $ pip install -r requirements.txt
+>> scipy
+>> torch>=0.4.1
+>> torchvision
+>> opencv-python
+>> yacs
+>> tqdm
 ```
   
 </details>
