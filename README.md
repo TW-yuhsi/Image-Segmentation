@@ -79,17 +79,11 @@ $ python3 -u test.py \
 <summary>Environment setup</summary>
 
 ```bash
-$ conda env create -f environment.yml
+
 
 $ git clone https://github.com/dbolya/yolact.git
-$ cd yolact
-$ pip install -r requirements.txt
->> scipy
->> torch>=0.4.1
->> torchvision
->> opencv-python
->> yacs
->> tqdm
+$ cd yolact/
+$ conda env create -f environment.yml
 ```
   
 </details>
