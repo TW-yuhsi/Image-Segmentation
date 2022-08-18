@@ -84,6 +84,7 @@ $ python3 -u test.py \
 $ git clone https://github.com/dbolya/yolact.git
 $ cd yolact/
 $ conda env create -f environment.yml
+$ conda activate yolact-env
 ```
   
 </details>
