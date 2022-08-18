@@ -16,11 +16,12 @@ $ conda activate UNet
 ## [Semantic Segmentation on MIT ADE20K dataset in PyTorch](https://github.com/CSAILVision/semantic-segmentation-pytorch)
 <details>
 
-<summary>Conda env.</summary>
+<summary>Environment setup</summary>
 
 ```bash
-$ conda create -n SemanticSegmentation python=3.7 -y
+$ conda create -n SemanticSegmentation python=3.9 -y
 $ conda activate SemanticSegmentation
+$ pip install torch==0.4.1 -f https://download.pytorch.org/whl/torch_stable.html
 ```
   
 </details>
