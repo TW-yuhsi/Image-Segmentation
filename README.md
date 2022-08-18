@@ -19,6 +19,7 @@ $ conda create -n
 
 ```bash
 $ conda create -n SemanticSegmentation python=3.9 -y
+$ conda activate SementicSegmentation
 ```
   
 </details>
