@@ -42,6 +42,9 @@ $ pip install -r requirements.txt
 <summary>Inference</summary>
 
 ```bash
+chmod +x demo_test.sh
+./demo_test.sh
+  
 python3 -u test.py \
   --imgs bentley.jpg \
   --cfg config/ade20k-resnet50dilated-ppm_deepsup.yaml \
