@@ -1,8 +1,7 @@
-
+# Segmentation
 
 
 ## Semantic Segmentation
-
 
 ### [U-Net: Semantic segmentation with PyTorch](https://github.com/milesial/Pytorch-UNet)
 <details>
@@ -69,3 +68,6 @@ $ python3 -u test.py \
 <summary></summary>
 
 </details>
+
+
+## Instance Segmentation
