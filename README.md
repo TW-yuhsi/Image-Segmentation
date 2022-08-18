@@ -79,8 +79,8 @@ $ python3 -u test.py \
 <summary>Environment setup</summary>
 
 ```bash
-$ conda create -n SemanticSegmentation python=3.7 -y
-$ conda activate SemanticSegmentation
+$ conda create -n yolact python=3.7 -y
+$ conda activate yolact
 
 $ git clone https://github.com/dbolya/yolact.git
 $ cd yolact
