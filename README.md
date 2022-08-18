@@ -46,11 +46,11 @@ $ chmod +x demo_test.sh
 $ ./demo_test.sh
   
 $ python3 -u test.py \
-  --imgs bentley.jpg \
-  --cfg config/ade20k-resnet50dilated-ppm_deepsup.yaml \
-  DIR ckpt/ade20k-resnet50dilated-ppm_deepsup \
-  TEST.result ./ \
-  TEST.checkpoint epoch_20.pth
+    --imgs bentley.jpg \
+    --cfg config/ade20k-resnet50dilated-ppm_deepsup.yaml \
+    DIR ckpt/ade20k-resnet50dilated-ppm_deepsup \
+    TEST.result ./ \
+    TEST.checkpoint epoch_20.pth
 ```
 
 </details>
