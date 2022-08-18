@@ -79,8 +79,7 @@ $ python3 -u test.py \
 <summary>Environment setup</summary>
 
 ```bash
-$ conda create -n yolact python=3.7 -y
-$ conda activate yolact
+$ conda env create -f environment.yml
 
 $ git clone https://github.com/dbolya/yolact.git
 $ cd yolact
