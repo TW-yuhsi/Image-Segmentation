@@ -18,7 +18,7 @@ $ conda create -n
 <summary>Setup</summary>
 
 ```bash
-$ conda create -n 
+$ conda create -n SemanticSegmentation python=3.9 -y
 ```
   
 </details>
