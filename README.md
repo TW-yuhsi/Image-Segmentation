@@ -21,6 +21,8 @@ $ conda activate UNet
 ```bash
 $ conda create -n SemanticSegmentation python=3.9 -y
 $ conda activate SemanticSegmentation
+
+$ git clone https://github.com/CSAILVision/semantic-segmentation-pytorch
 $ pip install -r requirements.txt
 ```
   
