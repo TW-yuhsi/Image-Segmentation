@@ -19,7 +19,7 @@ $ conda activate UNet
 <summary>Conda env.</summary>
 
 ```bash
-$ conda create -n SemanticSegmentation python=3.9 -y
+$ conda create -n SemanticSegmentation python=3.7 -y
 $ conda activate SemanticSegmentation
 ```
   
