@@ -89,7 +89,7 @@ $ # Cython needs to be installed before pycocotools
 $ pip install cython
 $ pip install opencv-python pillow pycocotools matplotlib
 $ pip install -r requirements.txt
-$ pip
+$ pip install 'git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI'
 ```
   
 </details>
