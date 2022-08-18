@@ -22,7 +22,6 @@ $ conda activate UNet
 $ conda create -n SemanticSegmentation python=3.9 -y
 $ conda activate SemanticSegmentation
 $ pip install -r requirements.txt
-$ pip install torch==0.4.1 -f https://download.pytorch.org/whl/torch_stable.html
 ```
   
 </details>
