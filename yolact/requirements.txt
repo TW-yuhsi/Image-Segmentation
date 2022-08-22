@@ -1,0 +1,6 @@
+scipy
+torch
+torchvision
+opencv-python
+yacs
+tqdm
