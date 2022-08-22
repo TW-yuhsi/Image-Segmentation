@@ -123,3 +123,6 @@ $ python eval.py --trained_model=weights/yolact_base_54_800000.pth --score_thres
 <summary></summary>
 
 </details>
+
+
+## Reference
