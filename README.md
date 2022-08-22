@@ -1,4 +1,4 @@
-# Segmentation
+# Image Segmentation
 
 
 ## Semantic Segmentation
