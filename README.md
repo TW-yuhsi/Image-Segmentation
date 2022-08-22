@@ -124,4 +124,11 @@ $ python eval.py --trained_model=weights/yolact_base_54_800000.pth --score_thres
 
 
 
+## GitHub Acknowledgements
+- [U-Net: Semantic segmentation with PyTorch](https://github.com/milesial/Pytorch-UNet)
+- [Semantic Segmentation on MIT ADE20K dataset in PyTorch](https://github.com/CSAILVision/semantic-segmentation-pytorch)
+- [You Only Look At CoefficienTs](https://github.com/dbolya/yolact)
+
 ## Reference
+- [Retina Blood Vessel Segmentation using UNET](https://saifgazali.medium.com/retina-blood-vessel-segmentation-using-unet-f9e21211fcbf)
+- [Retina Blood Vessel Segmentation using VGG16-UNET](https://saifgazali.medium.com/retina-blood-vessel-segmentation-using-vgg16-unet-7262f97e1695)
