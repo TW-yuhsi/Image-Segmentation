@@ -9,8 +9,7 @@
 <summary>Conda env.</summary>
 
 ```bash
-$ conda create -n UNet python=3.9 -y
-$ conda activate UNet
+$
 ```
   
 </details>
@@ -117,12 +116,6 @@ $ python eval.py --trained_model=weights/yolact_base_54_800000.pth --score_thres
 </details>
 
 
-
-<details>
-
-<summary></summary>
-
-</details>
 
 
 ## Reference
