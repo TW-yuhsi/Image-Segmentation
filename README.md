@@ -77,6 +77,12 @@ $ # Cython needs to be installed before pycocotools
 $ pip install cython
 $ pip install opencv-python pillow pycocotools matplotlib
 $ pip install -r requirements.txt
+>> scipy
+>> torch>=0.4.1
+>> torchvision
+>> opencv-python
+>> yacs
+>> tqdm
 $ pip install 'git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI'
 ```
   
