@@ -130,5 +130,5 @@ $ python eval.py --trained_model=weights/yolact_base_54_800000.pth --score_thres
 - [You Only Look At CoefficienTs](https://github.com/dbolya/yolact)
 
 ## TODO
-- [Retina Blood Vessel Segmentation using UNET](https://saifgazali.medium.com/retina-blood-vessel-segmentation-using-unet-f9e21211fcbf)
+- [Retina Blood Vessel Segmentation using UNET](https://saifgazali.medium.com/retina-blood-vessel-segmentation-using-unet-f9e21211fcbf)    ([colab](https://colab.research.google.com/drive/1PRubwdaSrqrtDzJJXLUAz9Fkc4zDKgbr?usp=sharing))
 - [Retina Blood Vessel Segmentation using VGG16-UNET](https://saifgazali.medium.com/retina-blood-vessel-segmentation-using-vgg16-unet-7262f97e1695)
